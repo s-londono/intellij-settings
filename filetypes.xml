@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ConfirmationDialog" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="ChannelStateSwitch" type="TypeScript JSX" />
       <mapping pattern="ErrorDialog" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
