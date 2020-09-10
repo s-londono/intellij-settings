@@ -12,5 +12,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
