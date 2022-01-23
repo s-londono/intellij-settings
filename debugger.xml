@@ -88,6 +88,12 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
+    <Renderer ID="ToStringRenderer">
+      <option name="ON_DEMAND" value="true" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
