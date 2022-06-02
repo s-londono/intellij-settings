@@ -6,7 +6,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*.xml,*.properties</mask>
     <mask>*.css</mask>
@@ -14,6 +13,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
     <mask>*.xml</mask>
   </component>
 </application>
